@@ -2,12 +2,12 @@
   <img alt="Headshot" src="./images/logo-new-nobrdr.svg" width="150"/>
 </div>
 <h1 style="font-size: 48px; line-height: 20px; margin: 0;" align="center">Hey there, I'm Jake.</h1>
-<p style="font-size: 19px;" align="center">
-    <a href="https://jakemccambley.com/">Portfolio</a> | 
-    <a href="https://twitter.com/JakeMcCambley">Twitter</a> | 
-    <a href="https://www.linkedin.com/in/jakemccambley/">LinkedIn</a> | 
+<h3 style="font-size: 19px;" align="center">
+    <a href="https://jakemccambley.com/">Portfolio</a>   // 
+    <a href="https://twitter.com/JakeMcCambley">Twitter</a>   // 
+    <a href="https://www.linkedin.com/in/jakemccambley/">LinkedIn</a>   // 
     <a href="https://jakemccambley.medium.com/">Medium</a> 
-</p>
+</h3>
 
 <!-- 
 ### I build projects to help people:
