@@ -1,6 +1,6 @@
 <div align="center">
-  <img alt="Headshot" src="./images/logo-new-nobrdr-dark.svg#gh-light-mode-only" width="150"/>
-  <img alt="Headshot" src="./images/logo-new-nobrdr.svg#gh-dark-mode-only" width="150"/>
+  <img alt="JM - Light theme" src="./images/logo-new-nobrdr-dark.svg#gh-light-mode-only" width="150"/>
+  <img alt="JM - Dark theme" src="./images/logo-new-nobrdr.svg#gh-dark-mode-only" width="150"/>
 </div>
 <h1 style="font-size: 48px; line-height: 20px; margin: 0;" align="center">Hey there, I'm Jake.</h1>
 <h3 style="font-size: 19px;" align="center">
