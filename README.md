@@ -8,7 +8,8 @@
     <a href="https://jakemccambley.com/">Portfolio</a>   // 
     <a href="https://twitter.com/JakeMcCambley">Twitter</a>   // 
     <a href="https://www.linkedin.com/in/jakemccambley/">LinkedIn</a>   // 
-    <a href="https://jakemccambley.medium.com/">Medium</a> 
+    <a href="https://jakemccambley.medium.com/">Medium</a> //
+    <a href="https://jakemccambley.com/files/Jake%20McCambley%20Resume.pdf">Resume</a> 
 </h3>
 
 <!-- 
